@@ -13,8 +13,7 @@
  -Dokumentacja(Documentation.js)
 
 Uruchomienie :
-COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 
 docker-compose -f docker-compose.dev.yml up --build
 
-Aplikacja jest dostępna na porcie 80.
+Port: 80
 
